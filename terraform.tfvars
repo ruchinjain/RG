@@ -13,4 +13,12 @@ rgs ={
         name="shyamu"
         location="east us"
     }
+     rg4 ={
+        name="ram"
+        location="east us"
+    }
+    rg5 ={
+        name="rammu"
+        location="Central India"
+}
 }
