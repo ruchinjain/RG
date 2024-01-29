@@ -9,7 +9,7 @@ rgs ={
         location="Central India"
     }
 
-     rg2 ={
+     rg3 ={
         name="shyamu"
         location="east us"
     }
