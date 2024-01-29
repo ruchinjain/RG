@@ -3,4 +3,8 @@ rgs ={
         name="ruchin"
         location="Central India"
     }
+     rg2 ={
+        name="ram"
+        location="east us"
+    }
 }
